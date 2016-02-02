@@ -6,6 +6,7 @@ This module can be used to verify state movements.
 Invoke it like this.
 
 var StateMachine = require('2states');
+
 /* Sample stateMap  
 	var stateMap = {
 	        "state1" : {
@@ -20,7 +21,10 @@ var StateMachine = require('2states');
 	      };
 
 */
+
 var stateMachine = new StateMachine(stateMap);
+
+
 Currently it has two functions.
 
 1. isTransitionPossible(inputState, outputState)
