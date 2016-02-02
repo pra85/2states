@@ -1,5 +1,5 @@
 {
-  "name": "state-machine",
+  "name": "2states",
   "version": "1.0.0",
   "description": "State machine",
   "main": "index.js",
