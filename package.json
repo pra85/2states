@@ -1,0 +1,15 @@
+{
+  "name": "state-machine",
+  "version": "1.0.0",
+  "description": "State machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paytm",
+  "license": "Private",
+  "devDependencies": {
+    "ejs": "^2.4.1",
+    "mocha": "^2.4.5"
+  }
+}
